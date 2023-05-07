@@ -1,3 +1,3 @@
-var corpo = document.querySelector("body");
-
-console.log(corpo);
+function trocarCorDoBody() {
+	var corpo = document.querySelector("body");
+}
