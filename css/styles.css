@@ -9,4 +9,15 @@ button {
 	width: 17%;
 	padding: 23px 0;
 	font-size: 18px;
+	background-color: #F0FFFF;
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 5px;
+	border-color: #00FF7F;
+}
+
+@media screen and (min-width: 280px) and (max-width: 456px) {
+	button {
+		width: 50%;
+	}
 }
